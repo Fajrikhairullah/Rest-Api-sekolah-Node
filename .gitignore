@@ -1,2 +1,4 @@
 node_modules/
 package-lock.json
+app/models/postmodel.js
+app/controllers/postcontroller.js
